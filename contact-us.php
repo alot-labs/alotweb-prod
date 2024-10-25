@@ -49,18 +49,18 @@
                 </div>
             </div>
 
-            <div class="locations__item">
+            <!--div class="locations__item">
                 <div class="locations__illustration" style="background-image: url(i/office-location-slovakia.jpg)"></div>
                 <div class="locations__text-holder">
                     <h3 class="heading-2">Slovakia</h3>
                     <p class="paragraph">
-                        <strong>In-house development studio</strong><br>
+                        <strong>ALOT Solutions Technology, s.r.o.</strong><br>
                         Digital Park<br>
                         Einsteinova 23<br>
                         Bratislava 821 05
                     </p>
                 </div>
-            </div>
+            </div-->
 
         </div>
     </div>

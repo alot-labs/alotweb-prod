@@ -104,21 +104,21 @@ include 'menu.php';
     </a>
 </section-->
 
-<section class="section splitbox splitbox--3 splitbox--homepage">
-    <a class="splitbox__item" href="prize-cover<?= $ext ?>">
+<section class="section splitbox splitbox--2 splitbox--homepage">
+    <a class="splitbox__item" href="lottery-prize-cover<?=$ext?>">
         <div class="splitbox__image splitbox__image--prize-cover"></div>
         <div class="splitbox__overlay"></div>
         <div class="splitbox__text">
             <h2 class="heading-1">Prize Cover</h2>
         </div>
     </a>
-    <a class="splitbox__item" href="games<?= $ext ?>">
+    <!--a class="splitbox__item" href="games<?= $ext ?>">
         <div class="splitbox__image splitbox__image--games"></div>
         <div class="splitbox__overlay"></div>
         <div class="splitbox__text">
             <h2 class="heading-1">Games</h2>
         </div>
-    </a>
+    </a-->
     <a class="splitbox__item" href="tech<?= $ext ?>">
         <div class="splitbox__image splitbox__image--promotions"></div>
         <div class="splitbox__overlay"></div>
@@ -151,10 +151,10 @@ include 'menu.php';
                 <p class="stats__value">€90m</p>
                 <p class="paragraph">Jackpot<br>payment assistance</p>
             </div> -->
-            <div class="stats__item">
+            <!--div class="stats__item">
                 <p class="stats__value">€200M</p>
                 <p class="paragraph">We can arrange more than €200M of Prize Cover</p>
-            </div>
+            </div-->
             <div class="stats__item">
                 <p class="stats__value">150+</p>
                 <p class="paragraph">Games using our technology</p>
